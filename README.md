@@ -5,7 +5,7 @@ Author
 The author is Amani Kai
 
 #### Setup instructions
--Git clone https://github.com/AMANIKAI/WEEK2-IP.git -Open the code with VScode -Go live
+-Git clone https://github.com/AMANIKAI/akan-names.git -Open the code with VScode -Go live
 
 #### Description
 This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
